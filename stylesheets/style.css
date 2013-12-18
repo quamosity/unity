@@ -1,0 +1,2561 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Ruby200\/lib\/ruby\/gems\/2\.0\.0\/gems\/singularitygs-1\.1\.2\/stylesheets\/singularitygs\/helpers\/_box-sizing\.scss}line{font-family:\0000334}}
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Ruby200\/lib\/ruby\/gems\/2\.0\.0\/gems\/toolkit-1\.3\.8\/stylesheets\/toolkit\/_box-sizing\.scss}line{font-family:\0000336}}
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Ruby200\/lib\/ruby\/gems\/2\.0\.0\/gems\/toolkit-1\.3\.8\/stylesheets\/toolkit\/_fluid-media\.scss}line{font-family:\000034}}
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/global\/_extendables\.scss}line{font-family:\0000314}}
+.clearfix:before, .clearfix:after {
+  display: table;
+  content: "";
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/global\/_extendables\.scss}line{font-family:\0000319}}
+.clearfix:after {
+  clear: both;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/global\/_base\.scss}line{font-family:\0000331}}
+h2 {
+  margin-top: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000327}}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000332}}
+html body {
+  margin-top: 0px;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000332}}
+  html body {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000343}}
+html body #admin-menu {
+  display: none;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000343}}
+  html body #admin-menu {
+    display: block;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000357}}
+html body.admin-menu {
+  margin-top: 0px !important;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000357}}
+  html body.admin-menu {
+    margin-top: 39px !important;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000370}}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000378}}
+.front .flex-caption {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000385}}
+#parent {
+  background: #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000390}}
+#header {
+  background-color: #fff;
+  padding: 0px 0px 0px 15px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\0000396}}
+#header img {
+  max-width: 48%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003103}}
+#page {
+  width: 100%;
+  background-color: #fff;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  max-width: 960px;
+  float: none;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003103}}
+  #page {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+@media (min-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003103}}
+  #page {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003127}}
+#header {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*  @include breakpoint($break2) {
+     @include grid-span(9, 1, $options: 'both');
+   }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003127}}
+  #header {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003127}}
+  #header {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003150}}
+#main-menu {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*    @include breakpoint($break2) {
+     @include grid-span(9, 1, $options: 'both');
+   }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003150}}
+  #main-menu {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003150}}
+  #main-menu {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003174}}
+#main-wrap {
+  padding: 5px 10px 5px 15px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003190}}
+#footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+     @include breakpoint($break2) {
+      @include grid-span(9, 1, $options: 'both');
+    }  
+    */
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003190}}
+  #footer {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003190}}
+  #footer {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003211}}
+#left-menu-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+    @include grid-span(2, 1, $options: 'both');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003211}}
+  #left-menu-footer {
+    width: 46.15385%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003211}}
+  #left-menu-footer {
+    width: 17.27273%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003232}}
+#middle-menu-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+    @include grid-span(2, 3);
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003232}}
+  #middle-menu-footer {
+    width: 46.15385%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003232}}
+  #middle-menu-footer {
+    width: 17.27273%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 19.09091%;
+    clear: none;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003253}}
+#right-menu-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+    @include grid-span(2, 5);
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003253}}
+  #right-menu-footer {
+    width: 46.15385%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003253}}
+  #right-menu-footer {
+    width: 17.27273%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 38.18182%;
+    clear: none;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003273}}
+#social-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+    @include grid-span(2, 5);
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003273}}
+  #social-footer {
+    width: 46.15385%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003273}}
+  #social-footer {
+    width: 30%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003294}}
+#bottom-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+    @include grid-span(2, 5);
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003294}}
+  #bottom-footer {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003294}}
+  #bottom-footer {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_layout\.scss}line{font-family:\00003315}}
+.clearfix:after {
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\000034}}
+.front #main-wrapper-section {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(4, 6, $options: 'right');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\000034}}
+  .front #main-wrapper-section {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\000034}}
+  .front #main-wrapper-section {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000323}}
+.front #banner {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+   /* @include breakpoint($break2) {
+	@include grid-span(9, 1, $options: 'both');
+  }  */
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000323}}
+  .front #banner {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000323}}
+  .front #banner {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000343}}
+.front #callout {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(3, 1, $gutter: 0, $options: 'right');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000343}}
+  .front #callout {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000343}}
+  .front #callout {
+    width: 25%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000365}}
+.front #main-wrap {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+   /* @include breakpoint($break2) {
+	@include grid-span(9, 1, $options: 'both');
+  }  */
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000365}}
+  .front #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000365}}
+  .front #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000383}}
+.front #system-status {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+ /*  @include breakpoint($break2) {
+	@include grid-span(3, 1);
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000383}}
+  .front #system-status {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\0000383}}
+  .front #system-status {
+    width: 23.63636%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: none;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003102}}
+.front #service-catalog {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+ /*  @include breakpoint($break2) {
+	@include grid-span(3, 4, $options: 'right');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003102}}
+  .front #service-catalog {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003102}}
+  .front #service-catalog {
+    width: 49.09091%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 25.45455%;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003121}}
+.front #features {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+ /*  @include breakpoint($break2) {
+	@include grid-span(3, 7, $options: 'right');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003121}}
+  .front #features {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003121}}
+  .front #features {
+    width: 23.63636%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003140}}
+.front #headlines {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+ /*  @include breakpoint($break2) {
+	@include grid-span(6, 1, $options: 'both');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003140}}
+  .front #headlines {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003140}}
+  .front #headlines {
+    width: 74.54545%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003159}}
+.front #events {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(3, 7, $options: 'right');
+  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003159}}
+  .front #events {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_front\.scss}line{font-family:\00003159}}
+  .front #events {
+    width: 23.63636%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\000034}}
+.not-front #content {
+  margin: 5px;
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\000034}}
+  .not-front #content {
+    margin: 0px;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000319}}
+.not-front.unity-no-sidebars #main-wrap {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000319}}
+  .not-front.unity-no-sidebars #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000319}}
+  .not-front.unity-no-sidebars #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000334}}
+.not-front.unity-no-sidebars #main-wrap #main-content {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000334}}
+  .not-front.unity-no-sidebars #main-wrap #main-content {
+    width: 75%;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000347}}
+.not-front.unity-no-sidebars #main-wrap #right-prefix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000347}}
+  .not-front.unity-no-sidebars #main-wrap #right-prefix {
+    width: 25%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000360}}
+.not-front.unity-no-sidebars #main-wrap #right-prefix .panel-pane {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000368}}
+.not-front.unity-no-sidebars #main-wrap #right-postfix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000368}}
+  .not-front.unity-no-sidebars #main-wrap #right-postfix {
+    width: 25%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\0000381}}
+.not-front.unity-no-sidebars #main-wrap #right-postfix .panel-pane {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003102}}
+.not-front.unity-sidebar-prefix #main-prefix {
+  display: none;
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(3, 1, $options: 'right');
+	}*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003102}}
+  .not-front.unity-sidebar-prefix #main-prefix {
+    width: 46.15385%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003102}}
+  .not-front.unity-sidebar-prefix #main-prefix {
+    display: block;
+    padding: 5px 10px 5px 10px;
+    width: 23.63636%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003126}}
+.not-front.unity-sidebar-prefix #main-wrap {
+  padding: 5px 10px 5px 10px;
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(4, 6, $options: 'right');
+	}*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003126}}
+  .not-front.unity-sidebar-prefix #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003126}}
+  .not-front.unity-sidebar-prefix #main-wrap {
+    padding: 5px 10px 5px 0px;
+    width: 74.54545%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003155}}
+.not-front.unity-sidebar-prefix #main-wrap #main-content {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003155}}
+  .not-front.unity-sidebar-prefix #main-wrap #main-content {
+    width: 60%;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003168}}
+.not-front.unity-sidebar-prefix #main-wrap #right-prefix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003168}}
+  .not-front.unity-sidebar-prefix #main-wrap #right-prefix {
+    width: 38%;
+    margin-left: 2%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003182}}
+.not-front.unity-sidebar-prefix #main-wrap #right-prefix .panel-pane {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003190}}
+.not-front.unity-sidebar-prefix #main-wrap #right-postfix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003190}}
+  .not-front.unity-sidebar-prefix #main-wrap #right-postfix {
+    width: 38%;
+    margin-left: 2%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003204}}
+.not-front.unity-sidebar-prefix #main-wrap #right-postfix .panel-pane {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003223}}
+.not-front.unity-sidebar-suffix #main-suffix {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(3, 1, $options: 'right');
+	}*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003223}}
+  .not-front.unity-sidebar-suffix #main-suffix {
+    width: 46.15385%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003223}}
+  .not-front.unity-sidebar-suffix #main-suffix {
+    display: block;
+    padding: 5px 10px 5px 10px;
+    margin-top: 45px;
+    width: 23.63636%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003249}}
+.not-front.unity-sidebar-suffix #main-wrap {
+  padding: 5px 10px 5px 10px;
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(4, 6, $options: 'right');
+	}*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003249}}
+  .not-front.unity-sidebar-suffix #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003249}}
+  .not-front.unity-sidebar-suffix #main-wrap {
+    padding: 5px 10px 5px 15px;
+    width: 74.54545%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003278}}
+.not-front.unity-sidebar-suffix #main-wrap #main-content {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003278}}
+  .not-front.unity-sidebar-suffix #main-wrap #main-content {
+    width: 60%;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003291}}
+.not-front.unity-sidebar-suffix #main-wrap #right-prefix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003291}}
+  .not-front.unity-sidebar-suffix #main-wrap #right-prefix {
+    width: 38%;
+    margin-left: 2%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003305}}
+.not-front.unity-sidebar-suffix #main-wrap #right-prefix .panel-pane {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003313}}
+.not-front.unity-sidebar-suffix #main-wrap #right-postfix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003313}}
+  .not-front.unity-sidebar-suffix #main-wrap #right-postfix {
+    width: 38%;
+    margin-left: 2%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_notfront\.scss}line{font-family:\00003327}}
+.not-front.unity-sidebar-suffix #main-wrap #right-postfix .panel-pane {
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\000034}}
+.node-type-service-page.unity-no-sidebar #main-wrap {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  	  /*#logo
+  	  {
+  	  
+  
+  		@include grid-span(1, 1, $options: 'both');
+  	  
+  	   	@include breakpoint($break) {
+  			
+  			@include grid-span(4, 1, $options: 'both');
+  	  	
+  	  	}
+  
+  	    
+  
+  	  	@include breakpoint($break2) {
+  		
+  			@include grid-span(2, 1);
+  		
+  	  	}
+  
+  	  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\000034}}
+  .node-type-service-page.unity-no-sidebar #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\000034}}
+  .node-type-service-page.unity-no-sidebar #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000339}}
+.node-type-service-page.unity-no-sidebar #main-wrap #title-content {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+   /* @include breakpoint($break2) {
+	@include grid-span(9, 1, $options: 'both');
+  }  */
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000339}}
+  .node-type-service-page.unity-no-sidebar #main-wrap #title-content {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000339}}
+  .node-type-service-page.unity-no-sidebar #main-wrap #title-content {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000364}}
+.node-type-service-page.unity-no-sidebar #main-wrap #main-content {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000364}}
+  .node-type-service-page.unity-no-sidebar #main-wrap #main-content {
+    margin-right: 2%;
+    width: 73%;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000379}}
+.node-type-service-page.unity-no-sidebar #main-wrap #right-prefix {
+  width: 100%;
+  float: left;
+  clear: both;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000379}}
+  .node-type-service-page.unity-no-sidebar #main-wrap #right-prefix {
+    width: 25%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000393}}
+.node-type-service-page.unity-no-sidebar #main-wrap #right-postfix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\0000393}}
+  .node-type-service-page.unity-no-sidebar #main-wrap #right-postfix {
+    width: 25%;
+    float: right;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003123}}
+.not-front.unity-sidebar #main-prefix {
+  display: none;
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(3, 1, $options: 'right');
+	}*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003123}}
+  .not-front.unity-sidebar #main-prefix {
+    width: 46.15385%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003123}}
+  .not-front.unity-sidebar #main-prefix {
+    display: block;
+    padding: 5px 10px 5px 10px;
+    width: 23.63636%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0%;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003148}}
+.not-front.unity-sidebar #main-wrap {
+  padding: 5px 10px 5px 10px;
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+  /*
+   @include breakpoint($break2) {
+	@include grid-span(4, 6, $options: 'right');
+	}*/
+  /*	  #logo
+  	  {
+  	  
+  
+  		@include grid-span(1, 1, $options: 'both');
+  	  
+  	   	@include breakpoint($break) {
+  			
+  			@include grid-span(4, 1, $options: 'both');
+  	  	
+  	  	}
+  
+  	    
+  
+  	  	@include breakpoint($break2) {
+  		
+  			@include grid-span(2, 1);
+  		
+  	  	}
+  
+  	  }*/
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003148}}
+  .not-front.unity-sidebar #main-wrap {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003148}}
+  .not-front.unity-sidebar #main-wrap {
+    padding: 5px 10px 5px 10px;
+    width: 74.54545%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003198}}
+.not-front.unity-sidebar #main-wrap #title-content {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: both;
+   /* @include breakpoint($break2) {
+	@include grid-span(9, 1, $options: 'both');
+  }  */
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003198}}
+  .not-front.unity-sidebar #main-wrap #title-content {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003198}}
+  .not-front.unity-sidebar #main-wrap #title-content {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: both;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003222}}
+.not-front.unity-sidebar #main-wrap #main-content {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003222}}
+  .not-front.unity-sidebar #main-wrap #main-content {
+    width: 60%;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003235}}
+.not-front.unity-sidebar #main-wrap #right-prefix {
+  width: 100%;
+  float: left;
+  clear: both;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003235}}
+  .not-front.unity-sidebar #main-wrap #right-prefix {
+    width: 38%;
+    margin-left: 2%;
+    float: right;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003250}}
+.not-front.unity-sidebar #main-wrap #right-postfix {
+  width: 100%;
+  float: left;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_service\.scss}line{font-family:\00003250}}
+  .not-front.unity-sidebar #main-wrap #right-postfix {
+    width: 38%;
+    margin-left: 2%;
+    float: right;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\000032}}
+#main-menu-controller {
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\000037}}
+#main-menu-navigation {
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000312}}
+#search-controller {
+  float: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000319}}
+#main-menu-controller {
+  display: block;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000319}}
+  #main-menu-controller {
+    display: none;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000328}}
+#search-controller {
+  display: block;
+}
+@media (min-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000328}}
+  #search-controller {
+    display: none;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000337}}
+#main-menu-navigation {
+  display: none;
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000337}}
+  #main-menu-navigation {
+    display: block;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000347}}
+#search-wrapper {
+  display: none;
+}
+@media (min-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/layout\/_mainnav\.scss}line{font-family:\0000347}}
+  #search-wrapper {
+    display: block;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000311}}
+tbody {
+  border-top: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000316}}
+body {
+  background: #ccc;
+  font-size: 0.8em;
+  font-family: Arial, Verdana, Tahoma, Sans-Serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000323}}
+a:link, a:visited, a:active {
+  background-color: transparent;
+  color: #990000;
+  text-decoration: none;
+}
+
+/*
+**		Set link color to darker gray (#444444) for link hover.
+*/
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000332}}
+a:hover, a.selected {
+  background-color: transparent;
+  color: #444444;
+  text-decoration: underline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000340}}
+h2 {
+  margin: 0px 0px 0.9em 0px;
+  padding: 0px;
+  /*border-bottom: 2px solid #333333;*/
+  font-weight: bold;
+  font-size: 1.7em;
+  font-family: Arial, sans serif;
+  text-align: left;
+  color: #333333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000351}}
+h1 {
+  font-weight: bold;
+  font-size: 2.25em;
+  color: #990000;
+  margin: 0 0 10px 0;
+  padding: 0px;
+  font-family: "news-gothic-std", Arial, sans serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000360}}
+h3 {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #990000;
+  margin: 0px;
+  padding: 0px;
+  font-family: "news-gothic-std", Arial, sans serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000369}}
+h4 {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin: 0px;
+  padding: 0px;
+  font-family: "news-gothic-std", Arial, sans serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000377}}
+h5 {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin: 0;
+  padding: 0 5px 5px;
+  color: #990000;
+  font-family: "news-gothic-std", Arial, sans serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000388}}
+#main-prefix {
+  padding: 10px 5px 5px 5px;
+  border-right: 1px solid #ccc;
+}
+
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\0000394}}
+  #page {
+    -moz-box-shadow: 0 0 5px 5px #888;
+    -webkit-box-shadow: 0 0 5px 5px #888888;
+    box-shadow: 0 0 5px 5px #888;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003104}}
+.field-name-body h2, #main-content h2 {
+  border-bottom: 0px;
+  color: #990000;
+  margin-bottom: 0.4em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003113}}
+#right-prefix h2, #right-postfix h2, #main-suffix h2 {
+  margin-bottom: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003118}}
+#right-prefix .panel-pane, #right-postfix .panel-pane, #main-suffix .panel-pane {
+  margin-bottom: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003123}}
+#right-prefix .panel-pane .panel-pane, #right-postfix .panel-pane .panel-pane, #main-suffix .panel-pane .panel-pane {
+  margin-bottom: 3px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003132}}
+.star-title .panel-title-div {
+  background-color: #000;
+  height: 34px;
+  border-top-right-radius: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003141}}
+.star-title .panel-title-div h2 {
+  padding: 7px 10px;
+  color: #fff;
+  border: 0px;
+  font-family: Calibri;
+  font-weight: normal;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003150}}
+.star-title .panel-title-red-bar {
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/red-star.gif");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  height: 13px;
+  background-color: #990000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_design\.scss}line{font-family:\00003159}}
+.star-title .panel-title-red-triangle {
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/red-triangle.gif");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  color: #fff;
+  height: 15px;
+  margin-bottom: 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\000032}}
+#footer {
+  background-color: #000000;
+  padding: 10px;
+  color: #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000311}}
+#footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000318}}
+#footer a:hover {
+  text-decoration: underline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000323}}
+#footer h2 {
+  border-bottom: 0px;
+  color: #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000329}}
+#footer ul, #footer ul li {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000336}}
+#footer .sub-footer {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #fff;
+  height: 110px;
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000336}}
+  #footer .sub-footer {
+    border-bottom: 0px;
+  }
+}
+
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000352}}
+  #footer .sub-footer.odd {
+    border-right: 1px solid #fff;
+    border-bottom: 0px;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000352}}
+  #footer .sub-footer.odd {
+    border-right: 1px solid #fff;
+    border-bottom: 0px;
+  }
+}
+
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000369}}
+  #footer .sub-footer.even {
+    border-right: 1px solid #fff;
+    border-bottom: 0px;
+  }
+}
+
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000384}}
+  #footer .sub-footer.last {
+    border-right: 1px solid #fff;
+    border-bottom: 0px;
+  }
+}
+@media (min-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\0000384}}
+  #footer .sub-footer.last {
+    border-right: 0px;
+    border-bottom: 0px;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\00003102}}
+#footer #social-footer .social-icon {
+  float: left;
+  margin: 5px 10% 0px 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_footer\.scss}line{font-family:\00003112}}
+#footer #bottom-footer ul {
+  margin: 10px auto;
+  text-align: center;
+  width: 100px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000311}}
+div#main-menu {
+  background-color: #990000;
+  height: 42px;
+  min-height: 42px;
+  max-height: 42px;
+  border: 0px;
+  margin: 0px;
+  padding: 0px 0px;
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000326}}
+div#main-menu #prefix-display-button img {
+  margin-top: -5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000334}}
+div#main-menu ul {
+  height: 42px;
+  min-height: 42px;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000342}}
+div#main-menu ul li {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+@media (min-width: 420px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000342}}
+  div#main-menu ul li {
+    float: left;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000353}}
+div#main-menu ul li a {
+  margin-right: 15px;
+  padding: 13px 15px 1% 15px;
+  height: 100%;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  margin-right: 2%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000375}}
+div#main-menu ul li a:hover {
+  background-color: #202020;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000382}}
+div#main-menu #search-wrapper {
+  padding: 8px 5px 0px 7px;
+  height: 42px;
+  float: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000387}}
+div#main-menu #search-wrapper .search-box {
+  width: 160px;
+  border: none;
+  margin-left: 7px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\0000395}}
+div#main-menu #search-wrapper .search-go {
+  width: 24px !important;
+  height: 24px;
+  margin: 0 0 0 2px;
+  padding: 0;
+  -webkit-appearance: none !important;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+  background: url(https://www.grad.stonybrook.edu/images/new/home-slider-pager.png) -26px -1px no-repeat;
+  border: none;
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003116}}
+div#main-menu #search-controller ul li a {
+  padding: 3px 0px 0px 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003122}}
+div#main-menu #search-controller a:hover {
+  background-color: #990000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003128}}
+#callout {
+  background-color: #000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003133}}
+#callout ul {
+  padding: 0px;
+  margin: 14.04101% 9.4637224%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003137}}
+#callout ul li {
+  border-bottom: 1px solid #fff;
+  height: 18.9274447950%;
+  padding: 6.30914826% 0px;
+  margin: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003143}}
+#callout ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003150}}
+#callout ul li.first {
+  border-top: 1px solid #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003163}}
+.footer-menu ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  list-style-image: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003171}}
+.footer-menu ul li {
+  margin: 0px;
+  padding: 0px;
+  list-style-image: none;
+  list-style-type: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003179}}
+.footer-menu a {
+  color: #fff;
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_mainnav\.scss}line{font-family:\00003185}}
+.footer-menu h2 {
+  font-size: 14px;
+  color: #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\000032}}
+#main-prefix ul {
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\000038}}
+#main-prefix ul ul {
+  margin: 15px 0px 0px 10px;
+  padding: 0px;
+  border-top: 1px solid #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000315}}
+#main-prefix ul li:last-child {
+  border-bottom: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000319}}
+#main-prefix ul li {
+  list-style: none;
+  padding: 0px 0px 5px 0px;
+  text-align: left;
+  margin: 6px 0px 4px 0px;
+  border-bottom: 1px solid #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000330}}
+#main-prefix ul li a {
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000336}}
+.menu ul {
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000342}}
+.menu ul ul {
+  margin: 15px 0px 0px 10px;
+  padding: 0px;
+  border-top: 1px solid #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000349}}
+.menu ul li:last-child {
+  border-bottom: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000353}}
+.menu ul li {
+  list-style: none;
+  padding: 0px 0px 5px 0px;
+  text-align: left;
+  margin: 6px 0px 4px 0px;
+  border-bottom: 1px solid #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000364}}
+.menu ul li a {
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000371}}
+.panel-pane.menu .field-item {
+  padding: 0px 0px 5px 0px;
+  text-align: left;
+  margin: 6px 0px 4px 0px;
+  border-bottom: 1px solid #ccc;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_secondarynav\.scss}line{font-family:\0000379}}
+.panel-pane.menu .field-item:last-child {
+  border-bottom: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\000031}}
+a.multi-line-button.red, a.multi-line-button.green, a.multi-line-button.blue {
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding;
+  -o-background-clip: padding-box;
+  -ms-background-clip: padding-box;
+  -khtml-background-clip: padding-box;
+  background-clip: padding-box;
+  border-width: 1px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -o-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -khtml-border-radius: 6px;
+  border-radius: 6px;
+  border-style: solid;
+  color: white;
+  display: block;
+  margin: 0.2em 0px;
+  width: 100%;
+  padding: 12px 15px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #60a3d8;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #89bbe2), color-stop(50%, #60a3d8), color-stop(100%, #378bce));
+  background-image: -moz-linear-gradient(top, #89bbe2 0%, #60a3d8 50%, #378bce 100%);
+  background-image: linear-gradient(top, #89bbe2 0%, #60a3d8 50%, #378bce 100%);
+  border-color: #2970a9;
+  border-left-color: #60a3d8;
+  border-top-color: #60a3d8;
+  -moz-box-shadow: rgba(255, 255, 255, 0.5) 1px 1px 0 0 inset;
+  -webkit-box-shadow: rgba(255, 255, 255, 0.5) 1px 1px 0 0 inset;
+  -o-box-shadow: rgba(255, 255, 255, 0.5) 1px 1px 0 0 inset;
+  box-shadow: rgba(255, 255, 255, 0.5) 1px 1px 0 0 inset;
+  color: white;
+  text-shadow: #2e7ebd 0 1px 2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000339}}
+.field-name-body a.multi-line-button {
+  width: 310px;
+  max-width: 310px;
+  margin-left: 0px;
+  display: block;
+}
+
+/* line 12, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000348}}
+a.multi-line-button.red .title, a.multi-line-button.green .title, a.multi-line-button.blue .title {
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+  opacity: 0.9;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000358}}
+a.multi-line-button.grey {
+  font-weight: normal;
+  margin: 0.2em 0px;
+  width: 100%;
+  padding: 12px 40px 12px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000368}}
+a.multi-line-button.grey .title {
+  font-size: 1.1em;
+  color: #990000;
+  display: block;
+}
+
+/* line 17, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000380}}
+a.multi-line-button.red .subtitle, a.multi-line-button.green .subtitle, a.multi-line-button.blue .subtitle {
+  font-size: 12px;
+  display: block;
+  margin-top: 4px;
+  opacity: 0.7;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+}
+
+/* line 23, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000389}}
+a.multi-line-button.red:hover .title, a.multi-line-button.green:hover .title, a.multi-line-button.blue:hover .title {
+  opacity: 1;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+}
+
+/* line 25, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\0000395}}
+a.multi-line-button:hover .subtitle {
+  opacity: 0.8;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+}
+
+/* line 27, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003101}}
+a.multi-line-button.red:active, a.multi-line-button.green:active, a.multi-line-button.blue:active {
+  padding: 13px 15px 11px;
+}
+
+/* line 48, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003105}}
+a.multi-line-button:hover, a.multi-line-button:focus {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #9dc7e7), color-stop(50%, #74afdd), color-stop(100%, #378bce));
+  background-image: -moz-linear-gradient(top, #9dc7e7 0%, #74afdd 50%, #378bce 100%);
+  background-image: linear-gradient(top, #9dc7e7 0%, #74afdd 50%, #378bce 100%);
+}
+
+/* line 50, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003111}}
+a.multi-line-button:active, a.multi-line-button.depressed {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #5796c8), color-stop(100%, #6aa2ce));
+  background-image: -moz-linear-gradient(top, #5796c8 0%, #6aa2ce 100%);
+  background-image: linear-gradient(top, #5796c8 0%, #6aa2ce 100%);
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  border-color: #2970a9;
+}
+
+/* line 16, multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003122}}
+a.multi-line-button.green {
+  background-color: #63bb4a;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #83c96f), color-stop(50%, #63bb4a), color-stop(100%, #4e9939));
+  background-image: -moz-linear-gradient(top, #83c96f 0%, #63bb4a 50%, #4e9939 100%);
+  background-image: linear-gradient(top, #83c96f 0%, #63bb4a 50%, #4e9939 100%);
+  border-color: #3b742b;
+  border-left-color: #63bb4a;
+  border-top-color: #63bb4a;
+  -moz-box-shadow: rgba(233, 233, 233, 0.5) 1px 1px 0 0 inset;
+  -webkit-box-shadow: rgba(233, 233, 233, 0.5) 1px 1px 0 0 inset;
+  -o-box-shadow: rgba(233, 233, 233, 0.5) 1px 1px 0 0 inset;
+  box-shadow: rgba(233, 233, 233, 0.5) 1px 1px 0 0 inset;
+  color: white;
+  text-shadow: #458632 0 1px 2px;
+}
+
+/* line 48, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003138}}
+a.multi-line-button.green:hover, a.multi-line-button.green:focus {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #93d082), color-stop(50%, #73c25d), color-stop(100%, #4e9939));
+  background-image: -moz-linear-gradient(top, #93d082 0%, #73c25d 50%, #4e9939 100%);
+  background-image: linear-gradient(top, #93d082 0%, #73c25d 50%, #4e9939 100%);
+}
+
+/* line 50, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003144}}
+a.multi-line-button.green:active, a.multi-line-button.green.depressed {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #5f9f4c), color-stop(100%, #6aaf56));
+  background-image: -moz-linear-gradient(top, #5f9f4c 0%, #6aaf56 100%);
+  background-image: linear-gradient(top, #5f9f4c 0%, #6aaf56 100%);
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  border-color: #3b742b;
+}
+
+/* line 18, multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003155}}
+a.multi-line-button.red {
+  background-color: #bf4040;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #cc6666), color-stop(50%, #bf4040), color-stop(100%, #993333));
+  background-image: -moz-linear-gradient(top, #cc6666 0%, #bf4040 50%, #993333 100%);
+  background-image: linear-gradient(top, #cc6666 0%, #bf4040 50%, #993333 100%);
+  border-color: #732626;
+  border-left-color: #bf4040;
+  border-top-color: #bf4040;
+  -moz-box-shadow: rgba(230, 230, 230, 0.5) 1px 1px 0 0 inset;
+  -webkit-box-shadow: rgba(230, 230, 230, 0.5) 1px 1px 0 0 inset;
+  -o-box-shadow: rgba(230, 230, 230, 0.5) 1px 1px 0 0 inset;
+  box-shadow: rgba(230, 230, 230, 0.5) 1px 1px 0 0 inset;
+  color: white;
+  text-shadow: #862d2d 0 1px 2px;
+}
+
+/* line 48, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003171}}
+a.multi-line-button.red:hover, a.multi-line-button.red:focus {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #d27979), color-stop(50%, #c55353), color-stop(100%, #993333));
+  background-image: -moz-linear-gradient(top, #d27979 0%, #c55353 50%, #993333 100%);
+  background-image: linear-gradient(top, #d27979 0%, #c55353 50%, #993333 100%);
+}
+
+/* line 50, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003177}}
+a.multi-line-button.red:active, a.multi-line-button.red.depressed {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #a04545), color-stop(100%, #b24d4d));
+  background-image: -moz-linear-gradient(top, #a04545 0%, #b24d4d 100%);
+  background-image: linear-gradient(top, #a04545 0%, #b24d4d 100%);
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  border-color: #732626;
+}
+
+/* line 20, multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003188}}
+a.multi-line-button.orange {
+  background-color: #d98026;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #e19951), color-stop(50%, #d98026), color-stop(100%, #ae661e));
+  background-image: -moz-linear-gradient(top, #e19951 0%, #d98026 50%, #ae661e 100%);
+  background-image: linear-gradient(top, #e19951 0%, #d98026 50%, #ae661e 100%);
+  border-color: #824d17;
+  border-left-color: #d98026;
+  border-top-color: #d98026;
+  -moz-box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  -webkit-box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  -o-box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  color: white;
+  text-shadow: #985a1b 0 1px 2px;
+}
+
+/* line 48, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003204}}
+a.multi-line-button.orange:hover, a.multi-line-button.orange:focus {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #e4a667), color-stop(50%, #dd8d3c), color-stop(100%, #ae661e));
+  background-image: -moz-linear-gradient(top, #e4a667 0%, #dd8d3c 50%, #ae661e 100%);
+  background-image: linear-gradient(top, #e4a667 0%, #dd8d3c 50%, #ae661e 100%);
+}
+
+/* line 50, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003210}}
+a.multi-line-button.orange:active, a.multi-line-button.orange.depressed {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #b8732e), color-stop(100%, #cc8033));
+  background-image: -moz-linear-gradient(top, #b8732e 0%, #cc8033 100%);
+  background-image: linear-gradient(top, #b8732e 0%, #cc8033 100%);
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  border-color: #824d17;
+}
+
+/* line 20, multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003222}}
+a.multi-line-button.blue {
+  background-color: #003366;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #000033), color-stop(50%, #003366), color-stop(100%, #3366cc));
+  background-image: -moz-linear-gradient(top, #000033 0%, #003366 50%, #3366cc 100%);
+  background-image: linear-gradient(top, #000033 0%, #003366 50%, #3366cc 100%);
+  border-color: #824d17;
+  border-left-color: #003366;
+  border-top-color: #003366;
+  -moz-box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  -webkit-box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  -o-box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  box-shadow: rgba(235, 230, 224, 0.5) 1px 1px 0 0 inset;
+  color: white;
+  text-shadow: #985a1b 0 1px 2px;
+}
+
+/* line 48, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003238}}
+a.multi-line-button.blue:hover, a.multi-line-button.blue:focus {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #003366), color-stop(50%, #336699), color-stop(100%, #3366cc));
+  background-image: -moz-linear-gradient(top, #003366 0%, #336699 50%, #3366cc 100%);
+  background-image: linear-gradient(top, #003366 0%, #336699 50%, #3366cc 100%);
+}
+
+/* line 50, _multi-line-button.sass */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003244}}
+a.multi-line-button.blue:active, a.multi-line-button.blue.depressed {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, #3366cc), color-stop(100%, #003366));
+  background-image: -moz-linear-gradient(top, #3366cc 0%, #003366 100%);
+  background-image: linear-gradient(top, #3366cc 0%, #003366 100%);
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  border-color: #824d17;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003255}}
+a.multi-line-button.grey {
+  background-color: #bfbfbf;
+  color: #990000;
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/red-arrow.png");
+  background-position: 125px 0px;
+  background-repeat: no-repeat;
+  width: 160px;
+  height: 60px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003266}}
+a.multi-line-button.grey:hover {
+  background-color: #666666;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003274}}
+div.unity-button, a.unity-button {
+  width: 100%;
+  min-width: 200px;
+  height: 48px;
+  background-color: #cccccc;
+  float: left;
+  color: #000;
+  text-decoration: none;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -o-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -khtml-border-radius: 6px;
+  border-radius: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003292}}
+div.unity-button .wrapper, a.unity-button .wrapper {
+  width: 100%;
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003296}}
+div.unity-button .wrapper .text, a.unity-button .wrapper .text {
+  padding: 7px 7px;
+  height: 100%;
+  font-family: Arial, sans serif;
+  float: left;
+  font-size: 0.8em;
+  max-width: 230px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003306}}
+div.unity-button .wrapper .text h2, a.unity-button .wrapper .text h2 {
+  font-size: 1.6em;
+  margin: 0px;
+  padding: 0px;
+  border-bottom: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003316}}
+div.unity-button .wrapper .icon, a.unity-button .wrapper .icon {
+  width: 36px;
+  height: 100%;
+  background-color: #990000;
+  float: right;
+  position: relative;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003326}}
+div.unity-button .wrapper .icon img, a.unity-button .wrapper .icon img {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -8px 0 0 -8px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003340}}
+a.unity-button:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003349}}
+a.unity-button.report-a-problem {
+  width: 100%;
+  height: 32px;
+  background-color: #ccc;
+  float: left;
+  color: #000;
+  min-width: 200px;
+  text-decoration: none;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -o-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -khtml-border-radius: 6px;
+  border-radius: 6px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003369}}
+a.unity-button.report-a-problem:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003375}}
+a.unity-button.report-a-problem .wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003381}}
+a.unity-button.report-a-problem .wrapper .text {
+  padding: 7px 7px;
+  height: 100%;
+  font-family: Arial, sans serif;
+  float: left;
+  font-size: 0.9em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003390}}
+a.unity-button.report-a-problem .wrapper .text h2 {
+  font-size: 1.2em;
+  margin: 0px;
+  padding: 0px;
+  border-bottom: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003398}}
+a.unity-button.report-a-problem .wrapper .icon {
+  width: 36px;
+  height: 100%;
+  background-color: #990000;
+  float: right;
+  position: relative;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003411}}
+a.unity-button.report-a-problem .wrapper .icon img {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -8px 0 0 -8px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003422}}
+div.system-status {
+  height: 60px;
+  color: #fff;
+  padding: 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003431}}
+div.unity-button.system-status, a.unity-button.system-status {
+  height: 32px;
+  padding: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003436}}
+div.unity-button.system-status .icon, a.unity-button.system-status .icon {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003443}}
+a.unity-button.system-status.offline .icon {
+  background-color: red;
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/system-status/offline.png");
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003450}}
+div.unity-button.system-status.online .icon {
+  background-color: green;
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/system-status/online.png");
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003457}}
+a.unity-button.system-status.upcoming-outage .icon {
+  background-color: blue;
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/system-status/scheduled.png");
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003464}}
+a.unity-button.system-status.disruptions .icon {
+  background-color: orange;
+  background-image: url("/sites/all/themes/custom/unity/stylesheets/images/system-status/disruptions.png");
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_buttons\.scss}line{font-family:\00003473}}
+div.system-status span.title {
+  text-transform: uppercase;
+  width: 100%;
+  font-size: 1.2em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\000032}}
+.view.width-100 .views-table, .view.width-100 .views-view-grid {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\000037}}
+.view.td-centered .views-table td, .view.td-centered .views-view-grid td {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000312}}
+.view.left-center-right .views-view-grid td {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000317}}
+.view.left-center-right .views-view-grid td.col-first {
+  text-align: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000322}}
+.view.left-center-right .views-view-grid td.col-last {
+  text-align: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000327}}
+.view table th {
+  font-size: 1.4em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000331}}
+.view table td {
+  vertical-align: top;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000337}}
+.view table td strong.heading {
+  font-size: 1.2em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000344}}
+.contents-view td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000350}}
+.contents-view table {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000356}}
+.contentsview .odd:first-child {
+  border-top: 1px solid #ccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000361}}
+tr.odd {
+  background-color: #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000367}}
+.left-align-caption caption {
+  text-align: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000372}}
+.caption-black caption, .caption-black caption h2, .caption-black caption h3, .caption-black caption h4, .caption-black caption h5, .caption-black caption h6 {
+  color: #000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000377}}
+.view-1-col-100 .views-table, .view-1-col-100 .views-table td {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000382}}
+.view-2-col-80-20 .views-table .col-1 {
+  width: 80%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000387}}
+.view-2-col-80-20 .views-table .col-2 {
+  width: 20%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000392}}
+.view-2-col-70-30 .views-table .col-1 {
+  width: 70%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\0000397}}
+.view-2-col-70-30 .views-table .col-2 {
+  width: 30%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003102}}
+.view-2-col-60-40 .views-table .col-1 {
+  width: 60%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003107}}
+.view-2-col-60-40 .views-table .col-2 {
+  width: 40%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003112}}
+.view-2-col-50-50 .views-table .col-1, .view-2-col-50-50 .views-table .col-2 {
+  width: 50%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003117}}
+.view.padding-10 td {
+  padding: 10px 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003122}}
+.view.padding-10-5 td {
+  padding: 10px 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003127}}
+.view.padding-10-0 td {
+  padding: 10px 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003132}}
+.contents-view caption a, .contents-view caption {
+  color: #000;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003137}}
+.view.top td {
+  vertical-align: top;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003142}}
+.view td h1, .view td h2, .view td h3, .view td h4, .view td h5, .view td h6 {
+  padding-top: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003147}}
+.view-unity-polaroid {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003153}}
+.view-unity-polaroid .item-list {
+  /*		width: 100%;
+  		
+  		
+  
+  		ul{
+  			margin: 0px auto;
+  			padding: 0px;
+  			float:left;
+  			width: 100%;
+  
+  		}
+  		
+  		li
+  		{
+  			display: block;
+  			float: left;
+  
+  			border: #B7B5B6 1px solid;
+  			background: #FFF;
+  			-webkit-box-shadow: 0px 0px 8px #B7B5B6;
+  			box-shadow: 0px 0px 8px #B7B5B6;
+  			text-align: center;
+  
+  			margin-bottom: 3%;
+  			margin-left: 1.5%;
+  			margin-right: 1.5%;
+  			padding: 1.5%;
+  
+  			width: 47%;
+  			height: 99px;
+  
+  	
+  			@include breakpoint($break2)
+  			{
+  			
+  				width: 22%;
+  			}
+  
+  			@include breakpoint($break3)
+  			{
+  			
+  				width: 22%;
+  
+  
+  			}
+  
+  
+  			
+  			.views-field-field-logo
+  			{
+  				text-align: center;
+  				width: 100%;
+  			}
+  			
+  			img
+  			{
+  				
+  				max-height: 128px;
+  				width: auto; 
+  				
+  			}
+  			
+  			.views-field-title
+  			{
+  			
+  				font-weight: bold;
+  				padding: 5px 5px 0px 5px;
+  				font-size: 1.2em;
+  			}
+  		
+  		}
+  
+  
+  */
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003158}}
+.view-unity-polaroid .item-list ul {
+  list-style: none;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003164}}
+.view-unity-polaroid .item-list ul li {
+  width: 22%;
+  float: left;
+  margin: 1.5%;
+  text-align: center;
+  display: block;
+  float: left;
+  border: #B7B5B6 1px solid;
+  background: #FFF;
+  -webkit-box-shadow: 0px 0px 8px #B7B5B6;
+  box-shadow: 0px 0px 8px #B7B5B6;
+  text-align: center;
+  position: relative;
+  padding: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003182}}
+.view-unity-polaroid .item-list ul li a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003190}}
+.view-unity-polaroid .item-list ul li a img {
+  max-height: 128px;
+  width: auto;
+  margin: 10px auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003197}}
+.view-unity-polaroid .item-list ul li a span {
+  padding: 5px 10.99530449186776%;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003204}}
+.view-unity-polaroid .item-list ul li .views-field-field-logo {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/git\/kerrinpernic\/docroot\/sites\/all\/themes\/custom\/unity\/sass\/partials\/design\/_views-styles\.scss}line{font-family:\00003210}}
+.view-unity-polaroid .item-list ul li:hover {
+  -webkit-box-shadow: 0px 0px 8px #990000;
+  box-shadow: 0px 0px 8px #990000;
+}
